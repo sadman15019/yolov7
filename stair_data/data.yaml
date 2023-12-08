@@ -1,4 +1,4 @@
-train: '/kaggle/working/yolov7/stair_data/train'
-val: '/kaggle/working/yolov7/stair_data/valid'
+train: '/kaggle/input/sadman-sakib/stair_data/train'
+val: '/kaggle/input/sadman-sakib/stair_data/valid'
 nc: 2
 names: ['Stairs','Person']
