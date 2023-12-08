@@ -1,4 +1,4 @@
-train = '/kaggle/input/sssssssss/stair_data/train',
-val = '/kaggle/input/sssssssss/stair_data/valid',
-nc = 2,
-names = ['Stairs','Person']
+train: '/kaggle/input/sssssssss/stair_data/train'
+val: '/kaggle/input/sssssssss/stair_data/valid'
+nc: 2
+names: ['Stairs','Person']
